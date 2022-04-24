@@ -1,2 +1,1 @@
-# save-dao
-DAOHAUS fork
+# smart-invoice mono repo
